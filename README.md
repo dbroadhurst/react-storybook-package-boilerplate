@@ -19,4 +19,4 @@ npm install
 npm run storybook
 ```
 
-Open brower and navigate to http://localhost:9001
+Open browser and navigate to http://localhost:9001
