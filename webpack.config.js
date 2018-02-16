@@ -7,7 +7,7 @@ const config = {
   output: {
     filename: 'index.js',
     path: path.resolve(__dirname, './dist'),
-    library: 'aws-cognito-redux-saga',
+    library: 'react-storybook-package-boilerplate',
     libraryTarget: 'umd'
   },
   externals: ['react', 'react-dom'],
